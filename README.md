@@ -7,3 +7,4 @@
 5. git push -u origin branch_name -> local repodan github repoga uzatish
 6. git push -> keyinki uzatishlar uchun
 7. git clone github_repo_adress -> githubda turgan reponi nusxalab olish
+8. git pull -> o'zgarishlarni qabul qilish
