@@ -6,3 +6,4 @@
 4. git remote add github_repo_adress -> local repo bilan githubdagi reponi bog'lash
 5. git push -u origin branch_name -> local repodan github repoga uzatish
 6. git push -> keyinki uzatishlar uchun
+7. git clone github_repo_adress -> githubda turgan reponi nusxalab olish
